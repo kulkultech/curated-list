@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "title": "Curated list repository",
+    "url": "https://github.com/kulkultech/curated-list",
+    "reason": "Because it is awesome",
+    "cat": "article"
+  }
+]

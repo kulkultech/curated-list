@@ -10,6 +10,7 @@
 ## Podcasts
 
 ## Articles
+ * [Curated list repository](https://github.com/kulkultech/curated-list) - Because it is awesome
 
 ## Newsletters
 
